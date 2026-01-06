@@ -28,4 +28,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[![Kyrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyriansalas)](https://github.com/kyriansalas/github-readme-stats)
+[![Kyrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyriansalas)](https://github.com/anuraghazra/github-readme-stats)
