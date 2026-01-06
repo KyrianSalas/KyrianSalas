@@ -28,7 +28,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyrianSalas&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
-</p>
+[![Kyrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyriansalas)](https://github.com/kyriansalas/github-readme-stats)
