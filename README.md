@@ -11,9 +11,9 @@
 ---
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 
+<img src="https://github-readme-terminal.vercel.app/api?username=kyriansalas&theme=dark" width="400" />
 
 <!--START_SECTION:waka-->
 
