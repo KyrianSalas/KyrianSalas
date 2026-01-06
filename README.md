@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kyrian Salas;Check+out+my+portfolio+at+www.kyriansalas.com">
+</p>
 
-<!--
-**KyrianSalas/KyrianSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> 👋 Welcome to my GitHub! </h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  I am a software engineer focused on [Your Interest, e.g., Web Dev / AI / Systems]. 
+  I love building tools that solve real-world problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 📊 GitHub Stats
+<!-- <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyrianSalas&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
+</p> -->
