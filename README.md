@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kyrian Salas;Check+out+my+portfolio+at+www.kyriansalas.com">
 </p>
 
@@ -18,9 +18,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+</p> -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 📊 GitHub Stats
-<!-- <p align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KyrianSalas&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
-</p> -->
+</p>
