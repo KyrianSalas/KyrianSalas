@@ -6,9 +6,11 @@
 </p>
 
 ---
-![Top Languages](./profile/top-langs.svg)
-
-<img src="https://github-readme-terminal.vercel.app/api?username=kyriansalas&theme=dark" width="400" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+  <img alt="Top Languages" src="./profile/top-langs-dark.svg">
+</picture>
 
 <!--START_SECTION:waka-->
 
