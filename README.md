@@ -32,11 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    11 mins               ███████████░░░░░░░░░░░░░░   44.28 %
-Dart     9 mins                █████████▒░░░░░░░░░░░░░░░   37.05 %
-Python   3 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-YAML     1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-INI      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
