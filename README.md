@@ -32,10 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       7 mins                ███████████░░░░░░░░░░░░░░   43.56 %
-Markdown   4 mins                ███████▒░░░░░░░░░░░░░░░░░   29.99 %
-Other      3 mins                ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-Git        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
